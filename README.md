@@ -1,5 +1,5 @@
-# IOS-Calculator
-iPhone calculator clone
+# iOS Calculator
+Create an iOS caclculator clone.
 
 <div style="text-align:center">
   <img src="https://user-images.githubusercontent.com/102920202/167881440-59c12854-9b44-4b2b-bf37-5d2693e18a34.png" width="90%">
